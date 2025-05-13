@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Games\\EndlessRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|C:\\Unity Games\\EndlessRunner\\assets\\scripts\\ragequitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ragequitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|c:\\unity games\\endlessrunner\\assets\\scripts\\generatelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generatelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|C:\\Unity Games\\EndlessRunner\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|C:\\Unity Games\\EndlessRunner\\assets\\scripts\\scorechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|C:\\Unity Games\\EndlessRunner\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB39ACD-2EE6-E15C-4D2B-642E1651D37D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreChecker.cs",
+              "DocumentMoniker": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\ScoreChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreChecker.cs",
+              "ToolTip": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\ScoreChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:22:32.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RageQuitter.cs",
+              "DocumentMoniker": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\RageQuitter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RageQuitter.cs",
+              "ToolTip": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\RageQuitter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RageQuitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:49:53.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManager.cs",
+              "ToolTip": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:54:47.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateLevels.cs",
+              "DocumentMoniker": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\GenerateLevels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateLevels.cs",
+              "ToolTip": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\GenerateLevels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GenerateLevels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:57:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Unity Games\\EndlessRunner\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:41:13.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
